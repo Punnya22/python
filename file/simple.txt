@@ -1,0 +1,3 @@
+Python is fun
+File handling is easy
+Practice make perfect
